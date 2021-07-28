@@ -1,1 +1,1 @@
-# MedicalReminder v0.1
+# MedicalReminder v0.2
